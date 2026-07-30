@@ -20,12 +20,12 @@ A collection of self-hosted services deployed with Docker Compose on Ubuntu Serv
 
 | Document |
 |----------|
-| [00 - Installation](00-installation.md) |
-| [01 - Portainer](01-portainer.md) |
-| [02 - Uptime Kuma](02-uptime-kuma.md) |
-| [03 - Homepage](03-homepage.md) |
-| [04 - File Browser](04-filebrowser.md) |
-| [05 - Reverse Proxy](05-reverse-proxy.md) |
+| [00 - Installation](docs/%E2%94%9C%E2%94%80%E2%94%80%2000-installation.md) |
+| [01 - Portainer](docs/%E2%94%9C%E2%94%80%E2%94%80%2001-portainer.md) |
+| [02 - Uptime Kuma](docs/%E2%94%9C%E2%94%80%E2%94%80%2002-uptime-kuma.md) |
+| [03 - Homepage](docs/%E2%94%9C%E2%94%80%E2%94%80%2003-homepage.md) |
+| [04 - File Browser](docs/%E2%94%9C%E2%94%80%E2%94%80%2004-filebrowser.md) |
+| [05 - Reverse Proxy](docs/%E2%94%9C%E2%94%80%E2%94%80%2005-reverse-proxy.md) |
 
 ---
 
