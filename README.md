@@ -29,6 +29,6 @@ A collection of self-hosted services deployed with Docker Compose on Ubuntu Serv
 
 ---
 
-## Architecture
+## Diagrams
 
 <img width="300" height="140" alt="Nginx Proxy Manager drawio" src="https://github.com/user-attachments/assets/7ac01ff8-21e1-4d9f-a2c3-d6643d942838" />
