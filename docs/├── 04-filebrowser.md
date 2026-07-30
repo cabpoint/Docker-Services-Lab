@@ -121,7 +121,7 @@ For this lab it is used to:
 
 ### Deployment
 
-<img width="619" height="63" alt="image" src="https://github.com/user-attachments/assets/944d6df3-cd5c-47ef-9c47-abbb39574285" />
+<img width="619" height="59" alt="image" src="https://github.com/user-attachments/assets/4870b036-6d33-4b6c-b4b2-f80632bb3c1f" />
 
 
 ---
@@ -129,7 +129,8 @@ For this lab it is used to:
 ### Running Container
 
 
-<img width="619" height="57" alt="image" src="https://github.com/user-attachments/assets/f32c8f2d-4830-4614-ad4a-b1eb13ce084a" />
+<img width="1084" height="97" alt="image" src="https://github.com/user-attachments/assets/3adb6e33-0dad-407d-bcd5-cc962c717c38" />
+
 
 
 ---
