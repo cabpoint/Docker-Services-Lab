@@ -28,7 +28,3 @@ A collection of self-hosted services deployed with Docker Compose on Ubuntu Serv
 | [05 - Reverse Proxy](docs/%E2%94%9C%E2%94%80%E2%94%80%2005-reverse-proxy.md) |
 
 ---
-
-## Architecture
-
-<img width="300" height="140" alt="Nginx Proxy Manager drawio" src="https://github.com/user-attachments/assets/c0a9716e-7fc3-458c-a386-e20eb692dc0c" />
