@@ -19,11 +19,11 @@ Deploy Uptime Kuma using Docker Compose to monitor the availability and health o
 
 ## Why Uptime Kuma?
 
-As more services are deployed, manually checking whether each one is running becomes inefficient.
+Monitoring is an important part of maintaining any server environment.
 
-Uptime Kuma provides a lightweight monitoring solution that continuously checks the availability of web services, servers and applications from a centralized dashboard.
+For this project, Uptime Kuma is used to continuously monitor the availability of the Nginx web server hosted on `http://192.168.0.150`, providing immediate visibility if the service becomes unavailable.
 
-For this lab, it is used to monitor services deployed throughout the Docker Services Lab.
+Additional monitors will be added as new services are deployed throughout this lab.
 
 ---
 
