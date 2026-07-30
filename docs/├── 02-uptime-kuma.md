@@ -105,9 +105,6 @@ Create a monitor for one of the deployed services.
 
 ### Uptime Kuma Dashboard
 
-<img width="2559" height="1079" alt="image" src="https://github.com/user-attachments/assets/174a6c81-2dcf-4b99-b2bd-2e3d8f76a465" />
-
-<img width="1650" height="871" alt="image" src="https://github.com/user-attachments/assets/e4dfa5e9-3cc7-4927-b08f-36a96c0a0081" />
 
 <img width="1673" height="861" alt="image" src="https://github.com/user-attachments/assets/e16fc6a9-a856-40c6-bbad-6d1dfb778d51" />
 
