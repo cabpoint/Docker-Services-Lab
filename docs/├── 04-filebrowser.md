@@ -121,17 +121,13 @@ For this lab it is used to:
 
 ### Deployment
 
-> Paste screenshot of:
+<img width="619" height="63" alt="image" src="https://github.com/user-attachments/assets/944d6df3-cd5c-47ef-9c47-abbb39574285" />
 
-```bash
-docker compose up -d
-```
 
 ---
 
 ### Running Container
 
-> Paste screenshot of:
 
 <img width="619" height="57" alt="image" src="https://github.com/user-attachments/assets/f32c8f2d-4830-4614-ad4a-b1eb13ce084a" />
 
