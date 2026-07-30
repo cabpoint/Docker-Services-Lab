@@ -114,7 +114,6 @@ Additional services will be added as the environment grows.
 
 ### Deployment
 
-> Paste screenshot of:
 
 <img width="590" height="62" alt="image" src="https://github.com/user-attachments/assets/11bdf22b-1a8f-4d7d-ae6f-a09af3bd8964" />
 
