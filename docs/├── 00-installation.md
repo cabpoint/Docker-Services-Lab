@@ -52,9 +52,6 @@ Docker Compose version v5.3.1
 
 <img width="336" height="41" alt="image" src="https://github.com/user-attachments/assets/49618980-3d9b-4dbd-acdb-eac6fc7dd8d3" />
 
->
-> `docker compose version`
-
 ---
 
 ## Implementation Notes
